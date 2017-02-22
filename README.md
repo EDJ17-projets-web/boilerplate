@@ -2,8 +2,6 @@
 
 [Lien vers le projet](https://lien)
 
-## Description
-
 ## TODO
 
 ## Architecture
@@ -12,7 +10,7 @@
 - scripts : fichiers javascript custom
 - css : feuilles de style custom
 - assets : images, vidéos, musiques, etc...
-- vendors : librairies tierces
+- vendor : librairies tierces
 
 ## Changelog
 
