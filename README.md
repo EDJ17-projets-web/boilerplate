@@ -8,10 +8,11 @@
 
 ## Architecture
 
-index.html : page d'accueil
-scripts : fichiers javascript
-css : feuilles de style
-assets : images, vidéos, musiques, etc...
+- index.html : page d'accueil
+- scripts : fichiers javascript custom
+- css : feuilles de style custom
+- assets : images, vidéos, musiques, etc...
+- vendors : librairies tierces
 
 ## Changelog
 
