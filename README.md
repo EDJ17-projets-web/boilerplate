@@ -1,6 +1,6 @@
 # TITRE DU PROJET
 
-[Lien vers le projet](https://lien)
+[Lien vers le projet](https://edj17-projets-web.github.io/boilerplate/)
 
 ## TODO
 
@@ -10,7 +10,7 @@
 - scripts : fichiers javascript custom
 - css : feuilles de style custom
 - assets : images, vidéos, musiques, etc...
-- vendor : librairies tierces
+- vendor : librairies tierces (Bootstrap, Jquery, etc.)
 
 ## Changelog
 
