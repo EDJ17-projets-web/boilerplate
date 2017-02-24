@@ -1,6 +1,6 @@
 # TITRE DU PROJET
 
-[Lien vers le projet](https://edj17-projets-web.github.io/boilerplate/)
+[Lien vers le projet](https://edj-projets-web.github.io/boilerplate/)
 
 ## TODO
 
